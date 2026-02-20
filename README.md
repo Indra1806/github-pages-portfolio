@@ -5,7 +5,7 @@
 **Project:** Syntax Simplified Portfolio Deployment  
 
 ## Live Demo
-**Access the live website here:** ![https://indra1806.github.io/github-pages-portfolio/](Live)
+**Access the live website here:** [Live](https://indra1806.github.io/github-pages-portfolio)
 
 ## Project Overview
 This project demonstrates how to deploy and host a static website utilizing **GitHub Pages**. It showcases a continuous deployment workflow where static assets (HTML/CSS) pushed to a specific repository branch are automatically published to a public URL, completely eliminating the need for traditional server provisioning.
